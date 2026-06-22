@@ -1,0 +1,46 @@
+..\output\find.o: ..\HARDWARE\MOTO\find.c
+..\output\find.o: ..\HARDWARE\MOTO\find.h
+..\output\find.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\find.o: ..\Libraries\CMSIS\core_cm3.h
+..\output\find.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\find.o: ..\Libraries\CMSIS\system_stm32f10x.h
+..\output\find.o: ..\User\stm32f10x_conf.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\output\find.o: ..\Libraries\CMSIS\stm32f10x.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_bkp.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_cec.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_crc.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_dac.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_dbgmcu.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_dma.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_exti.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_flash.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_fsmc.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_i2c.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_iwdg.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_pwr.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_rtc.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_sdio.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\output\find.o: ..\Libraries\FWlib\inc\stm32f10x_wwdg.h
+..\output\find.o: ..\Libraries\FWlib\inc\misc.h
+..\output\find.o: ..\DRV\bsp_sys.h
+..\output\find.o: ..\DRV\delay.h
+..\output\find.o: ..\DRV\bsp_GPIO.h
+..\output\find.o: ..\DRV\bsp_nvic.h
+..\output\find.o: ..\DRV\bsp_usart.h
+..\output\find.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\find.o: ..\DRV\bsp_iic.h
+..\output\find.o: ..\DRV\bsp_iic.h
+..\output\find.o: ..\DRV\bsp_adc.h
+..\output\find.o: ..\DRV\bsp_SysTick.h
+..\output\find.o: ..\HARDWARE\OLED\oled.h
+..\output\find.o: D:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\find.o: ..\HARDWARE\MOTO\TB6612.h
+..\output\find.o: ..\DRV\bsp_sys.h
+..\output\find.o: ..\HARDWARE\MOTO\Encoder.h
+..\output\find.o: ..\HARDWARE\MOTO\PID.h
